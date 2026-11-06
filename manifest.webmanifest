@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "ClearPath \u2014 Personal Budget",
+  "short_name": "ClearPath",
+  "description": "Your money. Your plan. Track income, expenses and financial goals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1118",
+  "theme_color": "#10151d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
